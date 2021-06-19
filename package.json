@@ -1,0 +1,23 @@
+{
+  "name": "graphql-begin",
+  "version": "1.0.0",
+  "description": "intro to graphql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "expressjs",
+    "nodejs",
+    "express",
+    "node"
+  ],
+  "author": "vikas choubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  }
+}
