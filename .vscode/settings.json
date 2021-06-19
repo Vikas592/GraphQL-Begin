@@ -2,5 +2,12 @@
     "prettier.arrowParens": "avoid",
     "prettier.jsxBracketSameLine": true,
     "prettier.jsxSingleQuote": true,
-    "prettier.singleQuote": true
+    "prettier.singleQuote": true,
+    "typescript.format.semicolons": "insert",
+    "javascript.format.semicolons": "insert",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "eslint.format.enable": true,
+    "markdown-preview-enhanced.enableCriticMarkupSyntax": true,
+    "javascript.format.insertSpaceAfterConstructor": true
 }
