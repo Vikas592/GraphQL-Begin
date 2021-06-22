@@ -6,11 +6,11 @@ const typeDefs = gql`
     age: Int!
     hobbies: [String!]!
   }
-
+# Queries
   type Query {
     getAllUsers: [User!]!
   }
-
+# Mutations
   type Mutation {
     createUser(name:String!, age:Int!, hobbies: [String!]!): User!
   }
