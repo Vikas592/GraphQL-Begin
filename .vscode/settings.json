@@ -9,5 +9,6 @@
     "editor.formatOnSaveMode": "modifications",
     "eslint.format.enable": true,
     "markdown-preview-enhanced.enableCriticMarkupSyntax": true,
-    "javascript.format.insertSpaceAfterConstructor": true
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true
 }
